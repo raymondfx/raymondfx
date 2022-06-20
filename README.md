@@ -1,8 +1,8 @@
 # raymondfx
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Raymond</h2>
+<h2>Hey there! I'm Raymond</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Raymond -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -55,6 +55,7 @@
 <p align="center" >
 
 ### ⚙️ &nbsp;GitHub Analytics
+cd
 
 <p align="center">
 <a href="https://github.com/raymondfx">
